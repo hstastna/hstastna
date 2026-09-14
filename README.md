@@ -31,4 +31,4 @@ Nothing pulls me in like unfamiliar territory — a product unlike anything I've
 ## 🤙 Get in touch
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hstastna)
-- ✉️ [stastna.hilda@proton.me](mailto:stastna.hilda@proton.me)
+- ✉️ [stastna.hilda@pm.me](mailto:stastna.hilda@pm.me)
