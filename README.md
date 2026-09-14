@@ -1,11 +1,8 @@
 ### 🙌 Hey, glad you stopped by!
 
-I take complicated things and make them simple: dense data tables, forms with a hundred
-edge cases, large component libraries, or whatever comes my way. Give me something great to code and I'll
-be up all night making it pixel-perfect 🤩
+I take complicated things and make them simple: dense data tables, forms with a hundred edge cases, large component libraries, or whatever comes my way. Give me something great to code and I'll be up all night making it pixel-perfect 🤩
 
-And I get a real kick out of unfamiliar territory — a product unlike anything I've built
-before, a library I've never touched — and I wouldn't say no to some Rails again :)
+Nothing pulls me in like unfamiliar territory — a product unlike anything I've built before, a library I've never touched — and I wouldn't say no to some Rails again :)
 
 ## 🔥 What I'm working on now
 
