@@ -9,7 +9,7 @@ before, a library I've never touched — and I wouldn't say no to some Rails aga
 
 ## 🔥 What I'm working on now
 
-- ⚡ **Self-service portals for Czech energy providers** — delivering features like consumption overviews, invoicing and supply-point management. Co-developing the React UI kit, handling accessibility and responsive behaviour<br>
+- ⚡ **Self-service portals for Czech energy providers** — delivering features like consumption overviews, invoicing and supply-point management. Co-developing the React UI kit, handling accessibility and responsive behavior<br>
   `Next.js` `TypeScript` `React` `styled-components` `Nx` `Storybook` `Vitest`
 
 ## ⏮️ Previously on…
