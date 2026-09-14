@@ -33,7 +33,5 @@ before, a library I've never touched — and I wouldn't say no to some Rails aga
 
 ## 🤙 Get in touch
 
-The moment a stubborn bug finally gives in is still the best part of my day. Say hi — I want to hear what you're building!
-
 - 💼 [LinkedIn](https://www.linkedin.com/in/hstastna)
 - ✉️ [stastna.hilda@proton.me](mailto:stastna.hilda@proton.me)
